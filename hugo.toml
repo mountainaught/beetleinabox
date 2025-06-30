@@ -1,0 +1,51 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Beetle in a Box'
+theme = "dream"
+
+[params]
+zenMode = false
+lightTheme = "lemonade"
+darkTheme = "sunset"
+# backgroundImage = "img/global-background.jpg"
+# backgroundImageDark = ""
+
+author = "rainy"
+# email = ""
+# description = ""
+avatar = "avatar.png"
+headerTitle = "Beetle in a Box"
+motto = "Philosopy is cringe. We're based."
+
+footerBottomText = "Thanks to Hugo, Dream and Rainy"
+
+# rss = true
+
+# utterancesRepo = ""
+
+# valine = true
+# LEANCLOUD_APP_ID = ""
+# LEANCLOUD_APP_KEY = ""
+
+# waline = true
+# walineServer = ""
+
+siteStartYear = 2025
+
+# favicon = "favicon.ico"
+
+# Syntax highlighting
+# customSyntaxHighlighting = true
+
+# options
+# stickyNav = true
+# reorderNavItems = ["about", "search", "rss", "posts", "categories", "tags"]
+# collapseNavItems = ["posts", "categories", "tags"]
+# noDefaultSummaryCover = true
+# showTableOfContents = true
+# showSummaryCoverInPost = true
+# imageZoomableInPost = true
+# showPrevNextPost = true
+# reorderShares = ["x", "facebook", "whatsapp"]
+
+# [params.navItems]
