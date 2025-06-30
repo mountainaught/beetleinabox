@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://beetle.letslovela.in/</loc>
     <lastmod>2025-06-30T16:51:36+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://beetle.letslovela.in/categories/</loc>
     <lastmod>2025-06-30T16:51:36+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ipsum/</loc>
+    <loc>https://beetle.letslovela.in/tags/ipsum/</loc>
     <lastmod>2025-06-30T16:51:36+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/issue-1/</loc>
+    <loc>https://beetle.letslovela.in/posts/issue-1/</loc>
     <lastmod>2025-06-30T16:51:36+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/lorem/</loc>
+    <loc>https://beetle.letslovela.in/tags/lorem/</loc>
     <lastmod>2025-06-30T16:51:36+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://beetle.letslovela.in/posts/</loc>
     <lastmod>2025-06-30T16:51:36+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://beetle.letslovela.in/tags/</loc>
     <lastmod>2025-06-30T16:51:36+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/test/</loc>
+    <loc>https://beetle.letslovela.in/categories/test/</loc>
     <lastmod>2025-06-30T16:51:36+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hello/</loc>
+    <loc>https://beetle.letslovela.in/posts/hello/</loc>
     <lastmod>2025-06-30T16:40:20+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/intro/</loc>
+    <loc>https://beetle.letslovela.in/tags/intro/</loc>
     <lastmod>2025-06-30T16:40:20+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/meta/</loc>
+    <loc>https://beetle.letslovela.in/categories/meta/</loc>
     <lastmod>2025-06-30T16:40:20+03:00</lastmod>
   </url>
 </urlset>

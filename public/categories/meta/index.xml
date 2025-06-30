@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meta on Beetle in a Box</title>
-    <link>http://localhost:1313/categories/meta/</link>
+    <link>https://beetle.letslovela.in/categories/meta/</link>
     <description>Recent content in Meta on Beetle in a Box</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Jun 2025 16:40:20 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/meta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://beetle.letslovela.in/categories/meta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
-      <link>http://localhost:1313/posts/hello/</link>
+      <link>https://beetle.letslovela.in/posts/hello/</link>
       <pubDate>Mon, 30 Jun 2025 16:40:20 +0300</pubDate>
-      <guid>http://localhost:1313/posts/hello/</guid>
+      <guid>https://beetle.letslovela.in/posts/hello/</guid>
       <description>&lt;p&gt;Heyo, we&amp;rsquo;re beetle in a box, and we think you&amp;rsquo;re cringe.&#xA;In fact Freud once said &amp;ldquo;penis&amp;rdquo; or something like that lmfao.&lt;/p&gt;</description>
     </item>
   </channel>
