@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beetle in a Box</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Beetle in a Box</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Jun 2025 16:51:36 +0300</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Issue 1</title>
-      <link>//localhost:1313/posts/issue-1/</link>
+      <link>http://localhost:1313/posts/issue-1/</link>
       <pubDate>Mon, 30 Jun 2025 16:51:36 +0300</pubDate>
-      <guid>//localhost:1313/posts/issue-1/</guid>
+      <guid>http://localhost:1313/posts/issue-1/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipiscing elit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello</title>
-      <link>//localhost:1313/posts/hello/</link>
+      <link>http://localhost:1313/posts/hello/</link>
       <pubDate>Mon, 30 Jun 2025 16:40:20 +0300</pubDate>
-      <guid>//localhost:1313/posts/hello/</guid>
+      <guid>http://localhost:1313/posts/hello/</guid>
       <description>&lt;p&gt;Heyo, we&amp;rsquo;re beetle in a box, and we think you&amp;rsquo;re cringe.&#xA;In fact Freud once said &amp;ldquo;penis&amp;rdquo; or something like that lmfao.&lt;/p&gt;</description>
     </item>
   </channel>

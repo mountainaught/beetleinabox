@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Beetle in a Box</title>
-    <link>//localhost:1313/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Beetle in a Box</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Jun 2025 16:51:36 +0300</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ipsum</title>
-      <link>//localhost:1313/tags/ipsum/</link>
+      <link>http://localhost:1313/tags/ipsum/</link>
       <pubDate>Mon, 30 Jun 2025 16:51:36 +0300</pubDate>
-      <guid>//localhost:1313/tags/ipsum/</guid>
+      <guid>http://localhost:1313/tags/ipsum/</guid>
       <description></description>
     </item>
     <item>
       <title>Lorem</title>
-      <link>//localhost:1313/tags/lorem/</link>
+      <link>http://localhost:1313/tags/lorem/</link>
       <pubDate>Mon, 30 Jun 2025 16:51:36 +0300</pubDate>
-      <guid>//localhost:1313/tags/lorem/</guid>
+      <guid>http://localhost:1313/tags/lorem/</guid>
       <description></description>
     </item>
     <item>
       <title>Intro</title>
-      <link>//localhost:1313/tags/intro/</link>
+      <link>http://localhost:1313/tags/intro/</link>
       <pubDate>Mon, 30 Jun 2025 16:40:20 +0300</pubDate>
-      <guid>//localhost:1313/tags/intro/</guid>
+      <guid>http://localhost:1313/tags/intro/</guid>
       <description></description>
     </item>
   </channel>

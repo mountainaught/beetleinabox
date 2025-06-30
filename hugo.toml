@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://beetle.letslovela.in'
 languageCode = 'en-us'
 title = 'Beetle in a Box'
 theme = "dream"
